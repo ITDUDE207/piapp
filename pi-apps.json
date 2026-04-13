@@ -1,1 +1,9 @@
+{
+  "name": "GenerationStudiosGames",
+  "short_description": "Games from Generation Studios",
+  "homepage": "https://ctrlaltdeluxe.replit.app/GSG",
+  "license": "MIT",
+  "categories": ["Games"],
+  "author": "Cameron C Howle"
+}
 
