@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Generation Studios Games
+Comment=Games from Generation Studios
+Exec=/opt/apps/Generation_Studios_Games/desktop
+Icon=/opt/apps/Generation_Studios_Games/icon.png
+Categories=Game;
+Terminal=false
